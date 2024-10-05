@@ -1,4 +1,4 @@
-FROM node:18.12.1 as build
+FROM node:20.18.0 as build
 
 FROM node:18.12.1-alpine
 
